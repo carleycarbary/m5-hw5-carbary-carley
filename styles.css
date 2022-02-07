@@ -15,6 +15,7 @@ header {
 }
 .column {
     float: right;
+    max-width: 800px;
 }
 .left {
     width: 75%;
