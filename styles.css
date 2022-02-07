@@ -24,7 +24,7 @@ header {
 }
 .right {
     width: 25%;
-    max-width: 400px;
+    max-width: 1000px;
     background-color: white;
 }
 .row:after {
