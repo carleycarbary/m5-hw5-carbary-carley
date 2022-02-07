@@ -19,12 +19,11 @@ header {
 }
 .left {
     width: 75%;
-    max-width: 400px;
+    margin-left: 200px;
     background-color: white;
 }
 .right {
     width: 25%;
-    max-width: 200px;
     background-color: white;
 }
 .row:after {
